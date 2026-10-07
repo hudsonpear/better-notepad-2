@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/pibtyie.png" height="150px">
 </p>
 
-# <p align="center">Better Notepad</p>
+# <p align="center">Better Notepad 2.0</p>
 
 <p align="center"> A fast, modern text editor written in native C++ with Qt 6. No web view, no JavaScript. </p>
 
